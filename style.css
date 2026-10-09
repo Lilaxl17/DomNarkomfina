@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    color: black;
+}
+
+.article {
+    width: 600px;
+    margin: 24px auto;
+}
+
+h1 {
+    font-size: 28px;
+    line-height: 1.1;
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 22px;
+    line-height: 1.1;
+    margin-bottom: 8px;
+}
+
+h3 {
+    font-size: 18px;
+    margin-bottom: 8px;
+}
+
+p {
+    font-size: 14px;
+    line-height: 1.5;
+    margin-bottom: 16px;
+}
+
+img {
+    display: block;
+    width: 600px;
+    margin: 30px auto;
+}
+
+blockquote {
+    font-size: 14px;
+    line-height: 1.5;
+    margin: 24px auto;
+}
+
+li {
+    font-size: 14px;
+    line-height: 1.5;
+    margin-bottom: 14px;
+}
+
+.big-title {
+    font-size: 24px;
+    line-height: 1.1;
+}
